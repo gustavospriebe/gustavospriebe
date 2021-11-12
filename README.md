@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavospriebe&layout=compact&theme=cobalt">
 </div>
   
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
     <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
     <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://media.giphy.com/media/HK1hAnDfVDWwNDFSUx/source.gif" align="right" width="250"></img>
-</div>  
+</div>   -->
   
 ##
   
