@@ -9,7 +9,7 @@ Professional with a degree in Business Administration and 9 years of experience 
 * 🌍  I'm based in Florianópolis,SC
 * 🖥️  See my portfolio at [gustavospriebe.com](http://gustavospriebe.com)
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
-* 🧠  I'm learning Component Composition and Zod
+* 🧠  I'm learning Prisma Query and Zod
 
 ### Skills
 
