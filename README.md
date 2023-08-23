@@ -11,6 +11,11 @@ Professional with a degree in Business Administration and 9 years of experience 
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
 * 🧠  I'm learning Prisma Query and Testing
 
+## THAYTO OLHA OS MEUS PROJETOS DE PORTFOLIO QUE EU AINDA NÃO BOTEI NO MEU SITE:
+[ambiental-mvp.vercel.app](ambiental-mvp.vercel.app)
+
+[https://coworking-website-five.vercel.app](https://coworking-website-five.vercel.app)
+
 ### Skills
 
 
