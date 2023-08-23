@@ -9,7 +9,13 @@ Professional with a degree in Business Administration and 9 years of experience 
 * 🌍  I'm based in Florianópolis,SC
 * 🖥️  See my portfolio at [gustavospriebe.com](http://gustavospriebe.com)
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
-* 🧠  I'm learning Prisma Query and Testing
+* 🧠  I'm learning Prisma Query and Jest
+
+### Principal Projects
+
+**Website for a Coworking** ( TypeScript / Next.JS / Tailwind / Radix UI ) - [coworking-website-five.vercel.app/](https://coworking-website-five.vercel.app/)
+
+**Project Management Application with Charts** ( TypeScript / Next.JS / Tailwind / Shadcn / Prisma / Zod / React Hook Form / Tremor ) - [ambiental-mvp.vercel.app/](http://ambiental-mvp.vercel.app/)
 
 ### Skills
 
