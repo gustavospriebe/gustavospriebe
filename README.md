@@ -15,7 +15,7 @@ Professional with a degree in Business Administration and 9 years of experience 
 
 **Website for a Coworking** ( TypeScript / Next.JS / Tailwind / Radix UI ) - [coworking-website-five.vercel.app/](https://coworking-website-five.vercel.app/)
 
-**Project Management Application with Charts** ( TypeScript / Next.JS / Tailwind / Shadcn / Prisma / Zod / React Hook Form / Tremor ) - [ambiental-mvp.vercel.app/](http://ambiental-mvp.vercel.app/)
+**Project Management Application with Charts** ( TypeScript / Next.JS / Next-Auth / Tailwind / Shadcn / Prisma / Zod / React Hook Form / Tremor ) - [ambiental-mvp.vercel.app/](http://ambiental-mvp.vercel.app/)
 
 ### Skills
 
