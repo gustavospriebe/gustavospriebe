@@ -7,7 +7,7 @@ Web Developer
 Professional with a degree in Business Administration and 9 years of experience in various sectors, including Consulting, Financial Market and Startups. As I faced challenges that demanded programming skills, I had a strong interest in improving my technical knowledge.
 
 * 🌍  I'm based in Florianópolis,SC
-* 🌲  Front End Developer at Zaya
+* 🌲  Front End Developer at [Zaya](https://zaya.eco/)
 * 🖥️  See my portfolio at [gustavospriebe.com](http://gustavospriebe.com)
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
 * 🧠  I'm learning Flask and Autogen
@@ -15,6 +15,8 @@ Professional with a degree in Business Administration and 9 years of experience 
 ### Principal Projects
 
 **Project Management Application with Charts** ( TypeScript / Next.JS / Next-Auth / Tailwind / Shadcn / Prisma / Zod / React Hook Form / Tremor ) - [ambiental-mvp.vercel.app/](http://ambiental-mvp.vercel.app/)
+
+**Website for a Coworking** ( TypeScript / Next.JS / Tailwind / Radix UI ) - [coworking-website-five.vercel.app/](https://coworking-website-five.vercel.app/)
 
 ### Skills
 
