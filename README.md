@@ -4,7 +4,7 @@ Hi 👋 My name is Gustavo
 Web Developer
 -------------
 
-Professional with a degree in Business Administration and 9 years of experience in various sectors, including Consulting, Financial Market and Startups. As I faced challenges that demanded programming skills, I had a strong interest in improving my technical knowledge.
+Professional with a degree in Business Administration and 9 years of experience in various sectors, including Consulting, Financial Market and Startups. As I faced challenges that demanded programming skills, I developed a strong interest in improving my technical knowledge.
 
 * 🌍  I'm based in Florianópolis, Brazil
 * 🌲  Web Developer at [Zaya](https://zaya.eco/)
