@@ -6,7 +6,7 @@ Web Developer
 
 Professional with a degree in Business Administration and 9 years of experience in various sectors, including Consulting, Financial Market and Startups. As I faced challenges that demanded programming skills, I had a strong interest in improving my technical knowledge.
 
-* 🌍  I'm based in Florianópolis,SC
+* 🌍  I'm based in Florianópolis, Brazil
 * 🌲  Web Developer at [Zaya](https://zaya.eco/)
 * 🖥️  See my portfolio at [gustavospriebe.com](http://gustavospriebe.com)
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
