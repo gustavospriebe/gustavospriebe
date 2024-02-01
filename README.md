@@ -12,12 +12,6 @@ Professional with a degree in Business Administration and 9 years of experience 
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
 * 🧠  I'm learning Flask and Autogen
 
-### Principal Projects
-
-**Project Management Application with Charts** ( TypeScript / Next.JS / Next-Auth / Tailwind / Shadcn / Prisma / Zod / React Hook Form / Tremor ) - [ambiental-mvp.vercel.app/](http://ambiental-mvp.vercel.app/)
-
-**Website for a Coworking** ( TypeScript / Next.JS / Tailwind / Radix UI ) - [coworking-website-five.vercel.app/](https://coworking-website-five.vercel.app/)
-
 ### Skills
 
 
