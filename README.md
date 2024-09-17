@@ -1,7 +1,7 @@
 Hi 👋 My name is Gustavo
 ========================
 
-Web Developer
+Fullstack Developer
 -------------
 
 Professional with a degree in Business Administration and 9 years of experience in various sectors, including Consulting, Financial Market and Startups. As I faced challenges that demanded programming skills, I developed a strong interest in improving my technical knowledge.
