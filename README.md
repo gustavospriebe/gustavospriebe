@@ -10,7 +10,7 @@ Professional with a degree in Business Administration and 9 years of experience 
 * 🌲  Fullstack Developer at [Zaya](https://zaya.eco/)
 * 🖥️  See my portfolio at [gustavospriebe.com](http://gustavospriebe.com)
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
-* 🧠  I'm learning Flask and Autogen
+* 🧠  I'm learning CI/CD pipelines
 
 ### Skills
 
