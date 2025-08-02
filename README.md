@@ -7,10 +7,10 @@ Fullstack Developer
 Professional with a degree in Business Administration and 9 years of experience in various sectors, including Consulting, Financial Market and Startups. As I faced challenges that demanded programming skills, I developed a strong interest in improving my technical knowledge.
 
 * 🌍  I'm based in Florianópolis, Brazil
-* 🌲  Fullstack Developer at [TBL Manager](https://tblmanager.com/)
+* 🌲  Tech Lead at [Renova Consulting Group](https://renovagp.com/)
 * 🖥️  See my portfolio at [gustavospriebe.com](http://gustavospriebe.com)
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
-* 🧠  I'm learning CI/CD pipelines
+* 🧠  I'm learning AI Agents
 
 ### Skills
 
