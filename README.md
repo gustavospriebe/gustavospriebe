@@ -10,7 +10,7 @@ Professional with a degree in Business Administration and 9 years of experience 
 * 🌲  Tech Lead at [Renova Consulting Group](https://renovagp.com/)
 * 🖥️  See my portfolio at [gustavospriebe.com](http://gustavospriebe.com)
 * ✉️  You can contact me at [gu181288@gmail.com](mailto:gu181288@gmail.com)
-* 🧠  I'm learning AI Agents
+* 🧠  I'm learning AI Workflows
 
 ### Skills
 
